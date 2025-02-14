@@ -20,7 +20,7 @@
 
 ##
 
-### 💻 My skills:
+### 💻 My Skills:
 <div align="left">
   
   > Programming Languages
