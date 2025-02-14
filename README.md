@@ -18,8 +18,6 @@
   
 </div>
 
-<br/>
-
 ##
 
 ### 💻 My Skills:
@@ -84,10 +82,7 @@
 ##
 
 <div align="left">
-  <div>
-      <img align="right" height="300" src="https://media.giphy.com/media/n4oKYFlAcv2AU/giphy.gif"  />
-  </div>
-
+  
   ### 😁 Thank You!
 
   > **Linus Torvalds** (Creator of Linux and Git):  
