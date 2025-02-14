@@ -21,11 +21,7 @@
   🌟 My favorite language is Python.
     
   </div>
-
-  
 </div>
-
-<br/>
 
 <div align="center">
 
