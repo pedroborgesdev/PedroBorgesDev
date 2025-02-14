@@ -2,10 +2,10 @@
 
 <div align="left">
   <div>
-      <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzA5NnU5OWRtdWQwaGM2YWtleGdxbWtvaTZ0bXFqdTQ3dWFtaXdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU8V1CHKTUFtuFO/giphy.gif"  />
+      <img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzA5NnU5OWRtdWQwaGM2YWtleGdxbWtvaTZ0bXFqdTQ3dWFtaXdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU8V1CHKTUFtuFO/giphy.gif"  />
   </div>
   
-  - 🧒 My name is Pedro Filipe, I'm have 17 years old.
+  - 🧒 My name is Pedro Filipe, I'm 17 years old.
     
   - 📍 I'm from Brazil.
 
@@ -17,7 +17,6 @@
   
 </div>
 
-<br/>
 
 ### 💻 My Skills:
 <div align="left">
@@ -66,8 +65,6 @@
   </div>
 </div>
 
-<br/>
-
 ### 📊 GitHub Stats:
 
 <div align="left">
@@ -87,8 +84,6 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroborgesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 </div>
-
-<br/> 
 
 <div align="left">
   
