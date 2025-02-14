@@ -17,6 +17,7 @@
   
 </div>
 
+<br/>
 
 ### 💻 My Skills:
 <div align="left">
@@ -32,7 +33,7 @@
   
   </div>
   
-  <div align="right">
+  <div align="left">
     
   *Popular Frameworks*
     
@@ -55,7 +56,7 @@
 
   </div>
 
-  <div align="right">
+  <div align="left">
 
   *Databases*
   
