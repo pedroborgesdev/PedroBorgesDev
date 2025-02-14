@@ -71,7 +71,11 @@
   </div>
 </div>
 
-## 📊 GitHub Stats:
+<div align="center">
+
+  ## 📊 GitHub Stats:
+  
+</div>
 
 <div align="left">
 
@@ -91,9 +95,11 @@
 
 </div>
 
-<div align="left">
-  
+<div align="center">
+
   ## 😁 Thank You!
+
+  <div align="left">
 
   > **Linus Torvalds** (Creator of Linux and Git):  
   > *"Most good programmers do their job not because they expect payment or recognition, but because it’s fun to program."* <br/>
@@ -104,5 +110,6 @@
   > **Steve Jobs** (Co-founder of Apple):  
   > *"Everyone in this country should learn to program a computer because it teaches you how to think."* <br/>
 
+  </div>
 </div>
 
