@@ -19,11 +19,11 @@
 
 <br/>
 
-<div align="right">
+<div align="center">
 
   ## 💻 My Skills
   
-  <div align="right">
+  <div align="center">
     
   *Programming Languages*
     
@@ -34,7 +34,7 @@
   
   </div>
   
-  <div align="right">
+  <div align="center">
     
   *Popular Frameworks*
     
@@ -47,7 +47,7 @@
 
   </div>
 
-  <div align="right">
+  <div align="center">
 
   *Servers*
   
@@ -57,7 +57,7 @@
 
   </div>
 
-  <div align="right">
+  <div align="center">
 
   *Databases*
   
