@@ -1,11 +1,10 @@
-## 
+## 🌐 Welcome to my GitHub!
 
 <div align="left">
   <div>
-      <img align="right" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzA5NnU5OWRtdWQwaGM2YWtleGdxbWtvaTZ0bXFqdTQ3dWFtaXdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU8V1CHKTUFtuFO/giphy.gif"  />
+      <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzA5NnU5OWRtdWQwaGM2YWtleGdxbWtvaTZ0bXFqdTQ3dWFtaXdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU8V1CHKTUFtuFO/giphy.gif"  />
   </div>
-
-  ### 🌐 Welcome to my GitHub!
+  
   - 🧒 My name is Pedro Filipe, I'm have 17 years old.
     
   - 📍 I'm from Brazil.
