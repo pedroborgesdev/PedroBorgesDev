@@ -71,13 +71,13 @@
 
 ### 📊 GitHub Stats:
 
-<div align="right">
+<div align="left">
 
   ![](https://github-readme-stats.vercel.app/api?username=pedroborgesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
 
 </div>
 
-<div align="left">
+<div align="center">
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=pedroborgesdev&theme=dark&hide_border=false) <br/>
 
