@@ -1,19 +1,27 @@
-## 🌐 Welcome to my GitHub!
 
-<div align="left">
+
+<div align="center">
+  
+  ## 🌐 Welcome to my GitHub!
+  
   <div>
       <img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzA5NnU5OWRtdWQwaGM2YWtleGdxbWtvaTZ0bXFqdTQ3dWFtaXdkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HU8V1CHKTUFtuFO/giphy.gif"  />
   </div>
   
-  - 🧒 My name is Pedro Filipe, I'm 17 years old.
-    
-  - 📍 I'm from Brazil.
+  <div align="left">
 
-  - 🧒 I'm have 17 years old.
+  🧒 My name is Pedro Filipe, I'm 17 years old.
     
-  - 📚 I am currently taking a technical course in Systems Development.
+  📍 I'm from Brazil.
+  
+  🧒 I'm have 17 years old.
     
-  - 🌟 My favorite language is Python.
+  📚 I am currently taking a technical course in Systems Development.
+    
+  🌟 My favorite language is Python.
+    
+  </div>
+
   
 </div>
 
