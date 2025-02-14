@@ -21,7 +21,7 @@
 
 <div align="right">
 
-  ### 💻 My Skills
+  ## 💻 My Skills
   
   <div align="right">
     
@@ -67,7 +67,7 @@
   </div>
 </div>
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="left">
 
@@ -89,7 +89,7 @@
 
 <div align="left">
   
-  ### 😁 Thank You!
+  ## 😁 Thank You!
 
   > **Linus Torvalds** (Creator of Linux and Git):  
   > *"Most good programmers do their job not because they expect payment or recognition, but because it’s fun to program."* <br/>
