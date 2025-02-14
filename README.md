@@ -71,14 +71,24 @@
 
 ### 📊 GitHub Stats:
 
-<div align="left">
+<div align="right">
 
   ![](https://github-readme-stats.vercel.app/api?username=pedroborgesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=pedroborgesdev&theme=dark&hide_border=false) <br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroborgesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-  
+
 </div>
 
+<div align="left">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=pedroborgesdev&theme=dark&hide_border=false) <br/>
+
+</div>
+
+<div align="right">
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroborgesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+
+</div>
+  
 ##
 
 <div align="left">
