@@ -14,7 +14,7 @@
     
   📚 I am currently taking a technical course in Systems Development.
     
-  🌟 My favorite language is Python.
+  🌟 My favorite language is Golang and Python.
     
   </div>
 </div>
