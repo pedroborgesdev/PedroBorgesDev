@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
   ## 🌐 Welcome to my GitHub!
@@ -72,6 +70,30 @@
   ![Redis](https://img.shields.io/badge/redis-%23D42029.svg?style=for-the-badge&logo=redis&logoColor=white)
 
   </div>
+</div>
+
+<div align="center">
+
+  ## 📊 GitHub Stats
+  
+</div>
+
+<div align="left">
+
+  ![](https://github-readme-stats.vercel.app/api?username=pedroborgesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
+
+</div>
+
+<div align="center">
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=pedroborgesdev&theme=dark&hide_border=false) <br/>
+
+</div>
+
+<div align="right">
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroborgesdev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+
 </div>
 
 <div align="center">
