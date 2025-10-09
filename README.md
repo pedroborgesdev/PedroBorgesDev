@@ -1,98 +1,110 @@
 <div align="center">
 
-  # 👋 Olá, eu sou Pedro Filipe!
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Python+%26+Go+Enthusiast;Apaixonado+por+Tecnologia;17+anos%2C+Brasil)](https://git.io/typing-svg)
+# Pedro Filipe Borges
+**Software Developer | Systems Development Technician**
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=pedroborgesdev&color=00d9ff&style=for-the-badge)
-  [![GitHub followers](https://img.shields.io/github/followers/pedroborgesdev?style=for-the-badge&color=00d9ff)](https://github.com/pedroborgesdev)
-  [![GitHub stars](https://img.shields.io/github/stars/pedroborgesdev?style=for-the-badge&color=00d9ff)](https://github.com/pedroborgesdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroborgesdev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pedroborgesdev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedrofilipe@example.com)
 
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Sobre Mim
-
-</div>
-
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenQyczl1bWtwcmp3Nmoza3g5M205ZmJmNHpvMnEzYnl0ZmYxMmxtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1xkMucz3jc5AGB4elL/giphy.gif">
-
-- 🧒 **Nome:** Pedro Filipe
-- 🎂 **Idade:** 17 anos  
-- 📍 **Localização:** Brasil 🇧🇷
-- 💼 **Trabalho:** Desenvolvedor Aprendiz na **Reis Advogados**
-- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas
-- ❤️ **Linguagens Favoritas:** Golang & Python
-- 🌱 **Aprendendo:** Rust, TypeScript avançado
-- ⚡ **Fun fact:** Adoro automatizar processos chatos!
-
-<br clear="right"/>
-
----
-
-<div align="center">
-
-## �️ Tech Stack
-
-</div>
-
-<div align="center">
-
-### 💻 Linguagens
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-### 🛠️ Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=pedroborgesdev&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
+## Professional Summary
+
+Software Developer with expertise in **Go**, **Python**, and modern web technologies. Currently working as an Apprentice Developer at **Reis Advogados**, specializing in process automation and full-stack development. Graduated as a Systems Development Technician with a strong foundation in software engineering principles.
+
+### Key Areas of Expertise
+- **Backend Development:** Go, Python, FastAPI, Django
+- **Frontend Development:** React, TypeScript, JavaScript
+- **Database Management:** PostgreSQL, MySQL, MongoDB, Redis
+- **DevOps & Cloud:** Docker, Azure, Nginx, Apache
+- **Process Automation:** RPA, Task Scheduling, API Integration
+
+---
+
+## Technical Skills
+
 <div align="center">
 
-## 📊 GitHub Analytics
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=go" title="Go" alt="Go" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=electron" title="Electron" alt="Electron" width="50" height="50"/>&nbsp;
+
+### Databases & Storage
+<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
+
+### DevOps & Cloud Technologies
+<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=apache" title="Apache" alt="Apache" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
 
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroborgesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroborgesdev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroborgesdev&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroborgesdev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 </div>
+
+---
+
+## Professional Experience
+
+**Apprentice Developer** | *Reis Advogados* | *Current*
+- Developing automation solutions for legal processes
+- Building web applications using modern frameworks
+- Implementing database solutions and API integrations
+- Collaborating with cross-functional teams on software projects
+
+---
+
+## Education & Certifications
+
+**Systems Development Technician** | *Completed*
+- Comprehensive training in software development methodologies
+- Database design and management
+- Web development technologies
+- Software engineering principles
+
+---
+
+## Contact Information
+
+📧 **Email:** [pedrofilipe@example.com](mailto:pedrofilipe@example.com)  
+💼 **LinkedIn:** [linkedin.com/in/pedroborgesdev](https://linkedin.com/in/pedroborgesdev)  
+🔗 **GitHub:** [github.com/pedroborgesdev](https://github.com/pedroborgesdev)  
+📍 **Location:** Brazil
+
+---
+
+*Last updated: October 2025*
 
