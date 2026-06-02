@@ -1,110 +1,179 @@
 <div align="center">
 
-# Pedro Filipe Borges
-**Software Developer | Systems Development Technician**
+# 👋 Hello, I'm Pedro Borges
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedroborgesdev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pedroborgesdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedrofilipe@example.com)
+### Full Stack Developer • Go Enthusiast • Cloud & Automation
 
-![Profile Views](https://komarev.com/ghpvc/?username=pedroborgesdev&color=0e75b6&style=flat)
+<p>
+Building scalable applications, automation solutions and cloud-native systems.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Go+Developer;Full+Stack+Engineer;Cloud+Computing+Enthusiast;AWS+Builder+Student+Leader;Automation+%26+Backend+Specialist" />
+
+<br>
+
+<a href="https://github.com/pedroborgesdev">
+    <img src="https://img.shields.io/github/followers/pedroborgesdev?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/pedroborgesdev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:pedrofilipe@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
 ---
 
-## Professional Summary
+# 🚀 About Me
 
-Software Developer with expertise in **Go**, **Python**, and modern web technologies. Currently working as an Apprentice Developer at **Reis Advogados**, specializing in process automation and full-stack development. Graduated as a Systems Development Technician with a strong foundation in software engineering principles.
+💻 Full Stack Developer passionate about backend engineering, cloud computing and automation.
 
-### Key Areas of Expertise
-- **Backend Development:** Go, Python, FastAPI, Django
-- **Frontend Development:** React, TypeScript, JavaScript
-- **Database Management:** PostgreSQL, MySQL, MongoDB, Redis
-- **DevOps & Cloud:** Docker, Azure, Nginx, Apache
-- **Process Automation:** RPA, Task Scheduling, API Integration
+🏢 Currently working at **Reis Advogados** as a Developer, creating internal systems, automations and integrations.
+
+☁️ AWS Builder Student Leader
+
+🎓 Bachelor's Degree in Computer Science
+
+⚙️ Focused on:
+
+- Distributed Systems
+- Backend Development
+- Cloud Computing
+- DevOps
+- Process Automation
+- Software Architecture
 
 ---
 
-## Technical Skills
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,rust,java"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,django,fastapi,nodejs"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite"/>
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,azure,nginx,linux,git"/>
+</p>
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=go" title="Go" alt="Go" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres" title="SQL" alt="SQL" width="50" height="50"/>&nbsp;
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=django" title="Django" alt="Django" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=electron" title="Electron" alt="Electron" width="50" height="50"/>&nbsp;
-
-### Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=redis" title="Redis" alt="Redis" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
-
-### DevOps & Cloud Technologies
-<img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=azure" title="Azure" alt="Azure" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=nginx" title="Nginx" alt="Nginx" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=apache" title="Apache" alt="Apache" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="50" height="50"/>&nbsp;
-
-### Development Tools
-<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroborgesdev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 
 </div>
 
 ---
 
-## GitHub Statistics
+# 🔥 Featured Projects
+
+## 🌐 Tunnerse
+
+Reverse tunnel platform inspired by ngrok.
+
+**Stack**
+- Go
+- Gin
+- SQLite
+- Nginx
+- Docker
+- TLS
+
+### Features
+
+✅ HTTP Tunnels
+
+✅ TCP Tunnels
+
+✅ Custom Subdomains
+
+✅ HTTPS Support
+
+✅ Desktop Client
+
+---
+
+## 🤖 Legal Process Automation
+
+Automation ecosystem for legal workflows.
+
+### Technologies
+
+- Python
+- Playwright
+- RabbitMQ
+- Kubernetes
+- SQL Server
+
+---
+
+# 💼 Professional Experience
+
+### Reis Advogados
+
+**Full Stack Developer**
+
+- Internal platform development
+- Process automation
+- API integrations
+- ETL pipelines
+- Cloud deployments
+- Infrastructure maintenance
+
+---
+
+# 🎓 Education
+
+### Computer Science
+Centro Universitário Barão de Mauá
+
+### Systems Development Technician
+ETEC
+
+---
+
+# 🌎 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pedroborgesdev&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Borges-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/pedroborgesdev)
+
+[![GitHub](https://img.shields.io/badge/GitHub-pedroborgesdev-black?style=for-the-badge&logo=github)](https://github.com/pedroborgesdev)
+
 </div>
 
 ---
 
-## Professional Experience
+<div align="center">
 
-**Apprentice Developer** | *Reis Advogados* | *Current*
-- Developing automation solutions for legal processes
-- Building web applications using modern frameworks
-- Implementing database solutions and API integrations
-- Collaborating with cross-functional teams on software projects
+### 🚀 Building software that solves real problems
 
----
-
-## Education & Certifications
-
-**Systems Development Technician** | *Completed*
-- Comprehensive training in software development methodologies
-- Database design and management
-- Web development technologies
-- Software engineering principles
-
----
-
-## Contact Information
-
-📧 **Email:** [pedrofilipe@example.com](mailto:pedrofilipe@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/pedroborgesdev](https://linkedin.com/in/pedroborgesdev)  
-🔗 **GitHub:** [github.com/pedroborgesdev](https://github.com/pedroborgesdev)  
-📍 **Location:** Brazil
-
----
-
-*Last updated: October 2025*
-
+</div>
